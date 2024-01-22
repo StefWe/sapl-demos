@@ -1,5 +1,5 @@
 [![Build Status](https://github.com/heutelbeck/sapl-demos/workflows/build/badge.svg)](https://github.com/heutelbeck/sapl-demos/actions)
-
+jetzt mit sign commits
 # SAPL Demo Projects
 
 > ** Attention ** The build of the sapl-demo-ethereum module may fail if [this web service of web3labs.com](https://internal.services.web3labs.com/api/solidity/versions/) is unreachable. In this case copy the file ' `sapl-demo-ethereum/src/main/solc/releases.json` to `~/.web3j/solc`.
